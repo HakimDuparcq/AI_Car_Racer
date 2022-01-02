@@ -1,0 +1,3 @@
+JuniaRAcer2_10 est le programme de train 
+
+JuniaRacer (programme de base) et hakim (driver) ne font que lire la Qtable1
